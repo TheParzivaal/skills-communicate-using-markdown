@@ -5,4 +5,7 @@
 ##### Header 5
 ###### Header 6
 ####### Header 7 (No header 7)
+
 Add headers
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
