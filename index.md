@@ -9,3 +9,7 @@
 Add headers
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` golang
+x := 3
+```
